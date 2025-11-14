@@ -9,10 +9,10 @@ The project simulates basic banking operations such as creating an account, depo
 
 com.braindata.bankmanagement
 │
-├── client           → Test.java (main menu)
-├── model            → Account.java (account data with getters/setters)
-├── service          → Rbi.java (interface)
-└── serviceImpl      → Sbi.java (business logic)
+├── client        → Test.java (main menu)
+├── model         → Account.java (account data with getters/setters)
+├── service       → Rbi.java (interface)
+└── serviceImpl   → Sbi.java (business logic)
 
 ---
 
