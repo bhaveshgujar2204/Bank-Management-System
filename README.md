@@ -8,6 +8,7 @@ The project simulates basic banking operations such as creating an account, depo
 ## 📦 Project Structure
 
 com.braindata.bankmanagement
+
 │
 ├── client → Test.java (main menu)
 ├── model → Account.java (account data with getters/setters)
