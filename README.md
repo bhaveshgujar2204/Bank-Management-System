@@ -11,9 +11,15 @@ com.braindata.bankmanagement
 
 │
 ├── client → Test.java (main menu)
-├── model → Account.java (account data with getters/setters)
-├── service → Rbi.java (interface)
-└── serviceImpl → Sbi.java (business logic)
+
+├── 
+model → Account.java (account data with getters/setters)
+
+├── 
+service → Rbi.java (interface)
+
+└──
+serviceImpl → Sbi.java (business logic)
 ---
 
 ## 🧩 Explanation of Each Package
