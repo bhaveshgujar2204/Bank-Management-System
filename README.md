@@ -10,7 +10,6 @@ The project simulates basic banking operations such as creating an account, depo
 com.braindata.bankmanagement
 
 │
-
 ├──
 client       → Test.java (main menu)
 
